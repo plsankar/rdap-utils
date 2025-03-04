@@ -1,7 +1,7 @@
 {
-  "name": "rdap-utils",
+  "name": "rdap-kit",
   "version": "0.0.1",
-  "description": "rdap-utils",
+  "description": "rdap-kit",
   "exports": {
     ".": {
       "require": "./dist/index.js",
