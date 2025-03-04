@@ -28,6 +28,190 @@ export const dnsList = [
     "server": "https://nic.samsung/rdap/"
   },
   {
+    "tld": "ads",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "android",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "app",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "boo",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "cal",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "channel",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "chrome",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "dad",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "day",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "dclk",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "dev",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "docs",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "drive",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "eat",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "esq",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "fly",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "foo",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "gbiz",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "gle",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "gmail",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "goog",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "google",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "guge",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "hangout",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "here",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "how",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "ing",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "map",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "meet",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "meme",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "mov",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "new",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "nexus",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "page",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "phd",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "play",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "prod",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "prof",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "rsvp",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "search",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "soy",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "xn--flw351e",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "xn--q9jyb4c",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "xn--qcka1pmc",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "youtube",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
+    "tld": "zip",
+    "server": "https://pubapi.registry.google/rdap/"
+  },
+  {
     "tld": "ca",
     "server": "https://rdap.ca.fury.ca/rdap/"
   },
@@ -1584,10 +1768,6 @@ export const dnsList = [
     "server": "https://rdap.identitydigital.services/rdap/"
   },
   {
-    "tld": "kerrylogistics",
-    "server": "https://rdap.identitydigital.services/rdap/"
-  },
-  {
     "tld": "kerryproperties",
     "server": "https://rdap.identitydigital.services/rdap/"
   },
@@ -1677,10 +1857,6 @@ export const dnsList = [
   },
   {
     "tld": "limo",
-    "server": "https://rdap.identitydigital.services/rdap/"
-  },
-  {
-    "tld": "lipsy",
     "server": "https://rdap.identitydigital.services/rdap/"
   },
   {
@@ -1785,6 +1961,10 @@ export const dnsList = [
   },
   {
     "tld": "movie",
+    "server": "https://rdap.identitydigital.services/rdap/"
+  },
+  {
+    "tld": "mu",
     "server": "https://rdap.identitydigital.services/rdap/"
   },
   {
@@ -3192,6 +3372,10 @@ export const dnsList = [
     "server": "https://rdap.nic.mint/"
   },
   {
+    "tld": "ml",
+    "server": "https://rdap.nic.ml/"
+  },
+  {
     "tld": "mlb",
     "server": "https://rdap.nic.mlb/"
   },
@@ -4554,189 +4738,5 @@ export const dnsList = [
   {
     "tld": "trust",
     "server": "https://whois.uniregistry.net/rdap/"
-  },
-  {
-    "tld": "ads",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "android",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "app",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "boo",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "cal",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "channel",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "chrome",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "dad",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "day",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "dclk",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "dev",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "docs",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "drive",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "eat",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "esq",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "fly",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "foo",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "gbiz",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "gle",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "gmail",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "goog",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "google",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "guge",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "hangout",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "here",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "how",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "ing",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "map",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "meet",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "meme",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "mov",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "new",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "nexus",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "page",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "phd",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "play",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "prod",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "prof",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "rsvp",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "search",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "soy",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "xn--flw351e",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "xn--q9jyb4c",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "xn--qcka1pmc",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "youtube",
-    "server": "https://www.registry.google/rdap/"
-  },
-  {
-    "tld": "zip",
-    "server": "https://www.registry.google/rdap/"
   }
 ];
