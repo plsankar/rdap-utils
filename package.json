@@ -1,7 +1,7 @@
 {
   "name": "rdap-utils",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "rdap-utils",
   "exports": {
     ".": {
       "require": "./dist/index.js",
@@ -15,7 +15,8 @@
   "scripts": {
     "prebuild": "node dev/prebuild.js",
     "build": "tsup",
-    "prepack": "pnpm build"
+    "prepack": "pnpm build",
+    "prepublish": "pnpm build"
   },
   "keywords": [],
   "author": "sankar-mediamax",
